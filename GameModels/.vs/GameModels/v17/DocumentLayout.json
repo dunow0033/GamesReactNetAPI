@@ -1,0 +1,145 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\VocalNight\\GameModels\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7CD2832-9FA3-4F22-AA9A-AA33F437EA27}|GameModels\\GameModels.csproj|c:\\users\\admin\\source\\repos\\vocalnight\\gamemodels\\gamemodels\\controllers\\gamemodelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7CD2832-9FA3-4F22-AA9A-AA33F437EA27}|GameModels\\GameModels.csproj|solutionrelative:gamemodels\\controllers\\gamemodelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7CD2832-9FA3-4F22-AA9A-AA33F437EA27}|GameModels\\GameModels.csproj|c:\\users\\admin\\source\\repos\\vocalnight\\gamemodels\\gamemodels\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B7CD2832-9FA3-4F22-AA9A-AA33F437EA27}|GameModels\\GameModels.csproj|solutionrelative:gamemodels\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7CD2832-9FA3-4F22-AA9A-AA33F437EA27}|GameModels\\GameModels.csproj|c:\\users\\admin\\source\\repos\\vocalnight\\gamemodels\\gamemodels\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7CD2832-9FA3-4F22-AA9A-AA33F437EA27}|GameModels\\GameModels.csproj|solutionrelative:gamemodels\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7CD2832-9FA3-4F22-AA9A-AA33F437EA27}|GameModels\\GameModels.csproj|c:\\users\\admin\\source\\repos\\vocalnight\\gamemodels\\gamemodels\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B7CD2832-9FA3-4F22-AA9A-AA33F437EA27}|GameModels\\GameModels.csproj|solutionrelative:gamemodels\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7CD2832-9FA3-4F22-AA9A-AA33F437EA27}|GameModels\\GameModels.csproj|c:\\users\\admin\\source\\repos\\vocalnight\\gamemodels\\gamemodels\\models\\apicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7CD2832-9FA3-4F22-AA9A-AA33F437EA27}|GameModels\\GameModels.csproj|solutionrelative:gamemodels\\models\\apicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7CD2832-9FA3-4F22-AA9A-AA33F437EA27}|GameModels\\GameModels.csproj|c:\\users\\admin\\source\\repos\\vocalnight\\gamemodels\\gamemodels\\models\\gamemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7CD2832-9FA3-4F22-AA9A-AA33F437EA27}|GameModels\\GameModels.csproj|solutionrelative:gamemodels\\models\\gamemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:951334055:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\VocalNight\\GameModels\\GameModels\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "GameModels\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\VocalNight\\GameModels\\GameModels\\Properties\\launchSettings.json",
+              "RelativeToolTip": "GameModels\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-02T14:11:16.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameModelsController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\VocalNight\\GameModels\\GameModels\\Controllers\\GameModelsController.cs",
+              "RelativeDocumentMoniker": "GameModels\\Controllers\\GameModelsController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\VocalNight\\GameModels\\GameModels\\Controllers\\GameModelsController.cs",
+              "RelativeToolTip": "GameModels\\Controllers\\GameModelsController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA7wBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T14:08:34.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\VocalNight\\GameModels\\GameModels\\Program.cs",
+              "RelativeDocumentMoniker": "GameModels\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\VocalNight\\GameModels\\GameModels\\Program.cs",
+              "RelativeToolTip": "GameModels\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T01:58:51.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\VocalNight\\GameModels\\GameModels\\appsettings.json",
+              "RelativeDocumentMoniker": "GameModels\\appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\VocalNight\\GameModels\\GameModels\\appsettings.json",
+              "RelativeToolTip": "GameModels\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-02T01:56:40.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "APIContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\VocalNight\\GameModels\\GameModels\\Models\\APIContext.cs",
+              "RelativeDocumentMoniker": "GameModels\\Models\\APIContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\VocalNight\\GameModels\\GameModels\\Models\\APIContext.cs",
+              "RelativeToolTip": "GameModels\\Models\\APIContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T23:55:04.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\VocalNight\\GameModels\\GameModels\\Models\\GameModel.cs",
+              "RelativeDocumentMoniker": "GameModels\\Models\\GameModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\VocalNight\\GameModels\\GameModels\\Models\\GameModel.cs",
+              "RelativeToolTip": "GameModels\\Models\\GameModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T23:53:00.424Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
